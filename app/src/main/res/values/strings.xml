@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda1</string>
+    <string name="btn_agregar">Agregar Contacto</string>
+
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_email">Email</string>
+
+    <string name="btn_ok">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
